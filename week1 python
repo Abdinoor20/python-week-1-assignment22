@@ -1,0 +1,25 @@
+  
+# Week 1 Assignment: All About Me
+# This program introduces me using Python variables.
+
+name = "Abdi Noor Abdullahi"
+age = 33
+favourite_language = "Python"
+goal = "To become a skilled software developer"
+
+# Display my information using the variables.
+print("My name is", name)
+print("I am", age, "years old.")
+print("My favourite programming language is", favourite_language)
+print("My goal for this course is", goal)
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> python main.py
+My name is Abdi Noor Abdullahi
+I am 33 years old.
+My favourite programming language is Python
+My goal for this course is To become a skilled software developer
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> git add main.py
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> git commit -m "Add Week 1 Python assignment"
+[main (root-commit) c3401b5] Add Week 1 Python assignment
+ 2 files changed, 27 insertions(+)
+ create mode 100644 all_about_me.py
+ create mode 100644 main.py
